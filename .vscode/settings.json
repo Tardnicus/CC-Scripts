@@ -1,0 +1,31 @@
+{
+    "Lua.diagnostics.globals": [
+        "printError",
+        "sleep",
+        "colors",
+        "colours",
+        "commands",
+        "disk",
+        "fs",
+        "gps",
+        "help",
+        "http",
+        "io",
+        "keys",
+        "multishell",
+        "os",
+        "paintutils",
+        "parallel",
+        "peripheral",
+        "pocket",
+        "rednet",
+        "redstone",
+        "settings",
+        "shell",
+        "term",
+        "textutils",
+        "turtle",
+        "vector",
+        "window"
+    ]
+}
